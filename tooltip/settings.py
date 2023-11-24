@@ -106,7 +106,7 @@ DATABASES = {
         'NAME': 'inventory',
         'USER': 'root',
         'PASSWORD': 'root',
-        'HOST': '18.225.195.7',
+        'HOST': 'inventory.ctxsz4qwczbr.us-east-2.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
