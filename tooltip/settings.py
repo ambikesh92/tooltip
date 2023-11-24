@@ -104,8 +104,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'inventory',
-        'USER': 'root',
-        'PASSWORD': 'root',
+        'USER': 'ambikesh92',
+        'PASSWORD': 'ambikesh5328',
         'HOST': 'inventory.ctxsz4qwczbr.us-east-2.rds.amazonaws.com',
         'PORT': '3306',
     }
